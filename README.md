@@ -1,4 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<megandhillon5>/<https://github.com/UCB-stat-159-f25/hw-2-megandhillon5>/HEAD?labpath=LOSC_Event_tutorial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw-2-megandhillon5/HEAD?labpath=LOSC_Event_tutorial.ipynb)
+
 
 
 
