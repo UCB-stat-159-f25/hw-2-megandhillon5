@@ -1,0 +1,7 @@
+I asked ChatGPT for assistance with the creation of the Binder link.
+
+Prompt:
+How do I create a binder link that opens directly to a notebook that I want open?
+
+Response:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<your-username>/<your-repo>/HEAD?labpath=<notebook-title>)
